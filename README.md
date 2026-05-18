@@ -19,7 +19,7 @@ This is a complete look at my training with Ivy Tech Community College
 ## Track I chose...
 I chose the digital forensics route. This track gave me 4 courses that cover the fundamentals of computer systems, networks, digital forensics investigation, and advanced topics in Windows and cell phone forensics. I completed Cisco Networking Academy courses. 
 
-#Cisco Networking Academy Courses Completed
+# Cisco Networking Academy Courses Completed
   * Getting Started with Cisco Packet Tracer
      Hands-on experience with Cisco Packet Tracer. Network simulation and visualization tool. Gave me practical skills in building and testing networks without physical hardware.
     
